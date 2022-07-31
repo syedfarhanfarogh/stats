@@ -19,7 +19,7 @@ public class Worker implements Runnable {
         try {
             while (true) {
             	Message msg = queue.take();
-            	this.store.save(msg);
+            	this.store.update(msg);
             }
         }
         catch (InterruptedException e) {

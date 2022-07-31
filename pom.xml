@@ -42,7 +42,6 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			<!-- 
 	        <plugin>
 	             <groupId>org.apache.maven.plugins</groupId>
 	             <artifactId>maven-war-plugin</artifactId>
@@ -50,7 +49,6 @@
 				 	<outputDirectory>/Users/farhan/Documents/vagrant/ubuntu/apache-tomcat-9.0.33/webapps/</outputDirectory>
 			 	</configuration>
 		 	</plugin>
-		 	 -->
 		</plugins>
 	</build>
 

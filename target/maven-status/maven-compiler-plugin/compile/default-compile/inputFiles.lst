@@ -2,6 +2,7 @@
 /Users/farhan/Documents/workspace/eclipse/stats/src/main/java/networking/platform/stats/rest/data/MessageList.java
 /Users/farhan/Documents/workspace/eclipse/stats/src/main/java/networking/platform/stats/rest/data/Message.java
 /Users/farhan/Documents/workspace/eclipse/stats/src/main/java/networking/platform/stats/rest/data/Worker.java
+/Users/farhan/Documents/workspace/eclipse/stats/src/main/java/networking/platform/stats/persistence/Bucket.java
 /Users/farhan/Documents/workspace/eclipse/stats/src/main/java/networking/platform/stats/rest/data/MessageQueue.java
 /Users/farhan/Documents/workspace/eclipse/stats/src/main/java/networking/platform/stats/persistence/InMemoryMessageStore.java
 /Users/farhan/Documents/workspace/eclipse/stats/src/main/java/networking/platform/stats/Provider.java

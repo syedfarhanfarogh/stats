@@ -1,13 +1,14 @@
+networking/platform/stats/persistence/Bucket$StoreKey.class
 networking/platform/stats/rest/api/FlowsController.class
 networking/platform/stats/rest/data/MessageList.class
+networking/platform/stats/persistence/Bucket.class
 networking/platform/stats/Provider.class
 networking/platform/stats/rest/data/Worker.class
-networking/platform/stats/persistence/InMemoryMessageStore$StoreKey.class
 networking/platform/stats/ServletInitializer.class
 networking/platform/stats/rest/data/Message.class
 networking/platform/stats/persistence/MessageStore.class
 networking/platform/stats/StatsApplication.class
 networking/platform/stats/rest/api/Validator.class
+networking/platform/stats/persistence/Bucket$StoreValue.class
 networking/platform/stats/persistence/InMemoryMessageStore.class
 networking/platform/stats/rest/data/MessageQueue.class
-networking/platform/stats/persistence/InMemoryMessageStore$StoreValue.class
